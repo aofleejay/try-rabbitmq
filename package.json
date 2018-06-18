@@ -1,0 +1,14 @@
+{
+  "name": "try-rabbitmq",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/basic.js"
+  },
+  "repository": "https://github.com/aofleejay/try-rabbitmq.git",
+  "author": "aofleejay <aofleejay@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "amqplib": "0.5.2"
+  }
+}
