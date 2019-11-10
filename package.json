@@ -6,7 +6,7 @@
     "start": "node src/basic.js"
   },
   "repository": "https://github.com/aofleejay/try-rabbitmq.git",
-  "author": "aofleejay <aofleejay@hotmail.com>",
+  "author": "aofleejay",
   "license": "MIT",
   "dependencies": {
     "amqplib": "0.5.2"
